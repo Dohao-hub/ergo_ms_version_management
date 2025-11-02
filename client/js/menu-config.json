@@ -1,0 +1,10 @@
+{
+  "menuSections": [
+    {
+      "icon": "Code",
+      "routeName": "VersionManagement",
+      "title": "Управление версиями"
+    }
+  ]
+}
+

@@ -1,0 +1,9 @@
+{
+  "name": "@ergo-ms/version-management-client",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Управление версиями - клиентская часть",
+  "dependencies": {}
+}
+
